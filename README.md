@@ -1,4 +1,6 @@
-Goals of Polish Boox are:
+<h2>Onyx Boox Screen Saver manager</h2>
+
+Goals of <b>Polish Boox</b> are:
 
     translating existing applications made for Onyx
     writing own applications
